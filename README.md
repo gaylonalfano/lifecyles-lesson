@@ -1,6 +1,8 @@
 ## Lifecycles lesson
 
-Here is our quick CRA application that demonstrates how lifecycles work in class components
+Update: Trying to clone locally.
+
+Here is our quick CRA application that demonstrates how lifecycles work in class components. 
 
 
 # How to fork and clone
